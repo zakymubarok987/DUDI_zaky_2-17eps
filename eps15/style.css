@@ -1,0 +1,51 @@
+.border-1 {
+	width: 100px; 
+	height: 80px;
+	background: pink; 
+	padding: 10px;
+	float: left;
+	margin-right:  20px;
+	margin-bottom: 30px;
+}
+.border-2 {
+	width: 80px; 
+	height: 80px;
+	background: pink;
+	border: dotted 2px blue; 
+	padding: 10px;
+	float: left;
+	margin-right:  20px;
+	margin-bottom: 30px;
+}
+
+.border-3 {
+	width: 200px; 
+	height: 80px;
+	background: pink;
+	border: dashed 2px red;  
+	padding: 10px;
+	float: left;
+	margin-right:  20px;
+	margin-bottom: 30px;
+}
+
+.border-4 {
+	width: 400px; 
+	height: 80px;
+	background: pink; 
+	padding: 10px;
+	float: left;
+	margin-right:  20px;
+	margin-bottom: 30px;
+}
+
+.border-5 {
+	width: 100px; 
+	height: 80px;
+	background: pink; 
+	padding: 10px;
+	float: left;
+	margin-right:  20px;
+}
+
+

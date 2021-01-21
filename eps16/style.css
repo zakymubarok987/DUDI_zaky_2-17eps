@@ -1,0 +1,25 @@
+.how-color {
+	width: 200px; 
+	height: 150px;
+	background-image: linear-gradient(to right, red, blue); 
+	padding: 20px 30px 30px 30px;
+	margin-bottom:  30px;
+}
+
+.how-color2 {
+	width: 200px; 
+	height: 150px;
+	background-image: linear-gradient(to left, red, yellow); 
+	padding: 20px 30px 30px 30px;
+	margin-bottom:  30px;
+}
+
+
+.how-color3 {
+	width: 200px; 
+	height: 150px;
+	background-image: radial-gradient(blue, yellow); 
+	padding: 20px 30px 30px 30px;
+	margin-bottom:  30px;
+}
+
